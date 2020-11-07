@@ -1,8 +1,0 @@
-.add-edit-recipe-form-container {
-    display: flex;
-    flex-direction: column;
-}
-
-.ingredients-list {
-    margin-left: 1rem;
-}
